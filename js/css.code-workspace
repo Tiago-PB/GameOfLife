@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../google_clon/css"
+		},
+		{
+			"path": "../../google_clon/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
